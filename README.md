@@ -1,7 +1,5 @@
 # Bem-vindo ao Meu Repositório no GitHub!
 
-![GitHub Logo](link-para-uma-imagem.png)
-
 Olá, sou Wellington Nascimento, e este é o meu espaço no GitHub, onde compartilho projetos e código interessantes. 
 
 ## Sobre Mim
