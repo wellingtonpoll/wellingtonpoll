@@ -8,7 +8,7 @@ Olá, sou Wellington Nascimento, e este é o meu espaço no GitHub, onde compart
 - 🌍 Atualmente resido em Caraguatatuba - SP.
 - 👨‍👩‍👦‍👦 Casado há 16 anos e pai da Micaelli e do Sheyne.
 - 📷 Fotografia é um dos meus hobbies favoritos.
-- ♟️ Enxadrista a mais de 30 anos, me adicione la no ![chess.com](https://friend.chess.com/dWRmC).
+- ♟️ Enxadrista a mais de 30 anos, me adicione la no [![Chess.com Profile](https://img.shields.io/badge/Chess.com-Profile-green)](https://www.chess.com/member/quaiada).
 
 ## Projetos Destacados
 
