@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Repositório no GitHub!
 
-![Open Source at Microsoft]([https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png](https://media.licdn.com/dms/image/D4D16AQE1DAx6idOjog/profile-displaybackgroundimage-shrink_350_1400/0/1675166832119?e=1700697600&v=beta&t=PX9KSiw1s83agaVgxdEdMlx4ufpYwAzMgFxHw4aQKT4)) 
+![image](https://github.com/wellingtonpoll/wellingtonpoll/assets/7691397/cb3e3008-a7ba-4451-967f-8365f223eb00)
 
 Olá, sou Wellington Nascimento, e este é o meu espaço no GitHub, onde compartilho projetos e código interessantes. 
 
